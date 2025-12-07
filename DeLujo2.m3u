@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",CARTOON NETWORK
+http://181.78.201.70:8000/play/a0h0/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cinecanal_antes2010.jpg",CINECANAL
+http://181.119.86.68:8000/play/b036/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",DE PELICULA
+http://181.119.85.222:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/directv-sports-logo.png",DIRECTTV SPORTS
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png",DISCOVERY KIDS
+http://181.119.85.222:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",DISNEY CHANEL
+http://181.119.86.68:8000/play/c003/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1200px-2024_Disney_Jr._Logo.svg.png",DISNEY JUNIOR
+http://179.51.136.19:8000/play/a1g3/index.m3u8
+#EXTINF:-1 tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300",DISTRITO COMEDIA
+http://181.119.85.222:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO
+http://181.189.244.253:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png",HBO EXTREME
+http://181.189.244.253:8000/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO FAMILY
+http://181.189.244.253:8000/play/a01b/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLUS HD
+http://181.189.244.253:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png",HBO2 HD
+http://181.189.244.253:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/artworks-000157487060-tbt6av-t500x500.jpg",NICK
+http://179.51.136.19:8000/play/a0q4/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY CHANNEL
+http://179.51.136.19:8000/play/a1aa/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg",STUDIO UNIVERSAL
+http://181.119.86.68:8000/play/c024/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",TLNOVELAS
+http://181.119.85.222:8000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/08/tooncast.jpg",TOONCAST
+http://179.51.136.19:8000/play/a0wh/index.m3u8
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⭐⭐⭐ESTRENOS/24/7.ec⭐⭐⭐" tvg-logo="https://img.webme.com/pic/h/hdtitilo/photo_2025-07-09_08-24-07.jpg" group-title="PPV/EVENTS™️",⭐⭐⭐ESTRENOS/24/7.ec⭐⭐⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/15
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⭐⚽===⭐⚽EVENTOS DIARIOS⚽⭐===⚽⭐" tvg-logo="https://img.webme.com/pic/h/hdtitilo/photo_2025-07-09_08-24-07.jpg" group-title="PPV/EVENTS™️",⭐⚽===⭐⚽EVENTOS DIARIOS⚽⭐===⚽⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/21
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⭐NTV*PPV*HD⭐1080p" tvg-logo="https://img.webme.com/pic/h/hdtitilo/photo_2025-07-09_08-24-07.jpg" group-title="PPV/EVENTS™️",⭐NTV*PPV*HD⭐1080p
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/1
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⭐NTV*PPV2*HD⭐720p" tvg-logo="https://img.webme.com/pic/h/hdtitilo/photo_2025-07-09_08-24-07.jpg" group-title="PPV/EVENTS™️",⭐NTV*PPV2*HD⭐720p
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/2
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⭐NTV*PPV+*HD⭐" tvg-logo="https://img.webme.com/pic/h/hdtitilo/photo_2025-07-09_08-24-07.jpg" group-title="PPV/EVENTS™️",⭐NTV*PPV+*HD⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/19
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⭐⚽LigaProEC2026⚽⭐" tvg-logo="https://static.flashscore.com/res/image/data/v3G098ld-0dZIBreH.png" group-title="PPV/EVENTS™️",⭐⚽LigaProEC2026⚽⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/4
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⭐⚽CopaEC2026⚽⭐" tvg-logo="https://www.seekpng.com/png/full/223-2230029_directv-sports-2-logo.png" group-title="PPV/EVENTS™️",⭐⚽CopaEC2026⚽⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/5
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⭐EspnSurFHD⭐" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="PPV/EVENTS™️",⭐EspnSurFHD⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/14
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⭐Espn2SurHD⭐" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png" group-title="PPV/EVENTS™️",⭐Espn2SurHD⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/3
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⭐Espn3SurHD⭐" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png" group-title="PPV/EVENTS™️",⭐Espn3SurHD⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/25
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⭐FoxSports.argHD⭐" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports-mediano.png" group-title="PPV/EVENTS™️",⭐FoxSports.argHD⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/26
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⭐ TyCSports.argHD⭐" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/tyc_sports.png" group-title="PPV/EVENTS™️",⭐ TyCSports.argHD⭐
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/13
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽TC Televisíon HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tcinternacionalec.jpg" group-title="ECUADOR™️",⚽TC Televisíon HD
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/7
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽Teleamazonas HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStzp9N61EPP2rXYSdnRa-ntpJeSiu8yhklYQ&s" group-title="ECUADOR™️",⚽Teleamazonas HD
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/8
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽Ecuavisa Ec HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/ecuavisar1ec.jpg" group-title="ECUADOR™️",⚽Ecuavisa Ec HD
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/9
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽EcuadorTV HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/ecuador_tv.png" group-title="ECUADOR™️",⚽EcuadorTV HD
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/16
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽Televicentro HD (EC)" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/tvcec.jpg" group-title="ECUADOR™️",⚽Televicentro HD (EC)
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/12
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽OromarTV HD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/oromartvec.jpg" group-title="ECUADOR™️",⚽OromarTV HD
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/11
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽RTS HD (EC)" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/rtsec.jpg" group-title="ECUADOR™️",⚽RTS HD (EC)
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/10
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽Gamavisión SD" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/gamavisionec.jpg" group-title="ECUADOR™️",⚽Gamavisión SD
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/23
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽RTU.ec" tvg-logo="https://play-lh.googleusercontent.com/cTFtT4ZudzB6XT2Yep0Lrj2Uymjw4cywkszLw4piesO7lbo-n4an78OsFeB21OPbypY" group-title="ECUADOR™️",⚽RTU.ec
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/18
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽Telerama.ec" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/teleramaec.jpg" group-title="ECUADOR™️",⚽Telerama.ec
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/17
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽CanalUno.ec" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/unoec.jpg" group-title="ECUADOR™️",⚽CanalUno.ec
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/20
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽NortVisionTV.ec" tvg-logo="https://nortvision.tv/wp-content/uploads/2024/10/logo-nortvision-peq-encabezado.png" group-title="ECUADOR™️",⚽NortVisionTV.ec
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/22
+#EXTINF:-1 tvg-id="Programacion Por Anunciarse Futuramente" tvg-name="⚽Wuan+.ec" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpaqHJHbKYzX9GE4eh1T5_srU3qgKKClS_TA&s" group-title="ECUADOR™️",⚽Wuan+.ec
+http://51.222.111.105:25461/NtvPlay2025/NtvPlay2025/24
