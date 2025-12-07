@@ -46,3 +46,19 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UC
 #EXTINF:-1 tvg-id="1152" tvg-name="UCV 2" tvg-logo="https://cdn.m3u.cl/logo/1152_UCV_2.png", UCV 2 
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/DW_(TV)_Logo_2012.svg" group-title="Internacionales", DW Español
+https://dwamdstream106.akamaized.net/hls/live/2015525/dwstream106/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/France_24_logo.svg" group-title="Internacionales", France 24 Español
+https://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TeleSUR_logo.svg" group-title="Internacionales", TeleSUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CGTN_Español_logo.svg" group-title="Internacionales", CGTN Español
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NASA_TV_logo.svg" group-title="Ciencia", NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
